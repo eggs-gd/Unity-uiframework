@@ -1,4 +1,6 @@
 {
   "name": "eggsgd.uiframework",
+  "displayName": "eGGs.gd UI Framework",
+  "description": "Package provides screens management system. Formerly known as deVoid UI, now forked and maintained by eGGs.gd team.",
   "version": "0.0.1"
 }
