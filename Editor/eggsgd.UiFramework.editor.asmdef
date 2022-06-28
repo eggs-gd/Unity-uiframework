@@ -1,5 +1,5 @@
 {
-  "name": "eggsgd.UiFramework.editor",
+  "name": "eggsgd.UiFramework.Editor",
   "rootNamespace": "eggsgd.UiFramework",
   "references": [
     "eggsgd.UiFramework"

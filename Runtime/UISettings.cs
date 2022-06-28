@@ -8,7 +8,7 @@ namespace eggsgd.UiFramework
     ///     Template for an UI. You can rig the prefab for the UI Frame itself and all the screens that should
     ///     be instanced and registered upon instantiating a new UI Frame.
     /// </summary>
-    [CreateAssetMenu(fileName = "UISettings", menuName = "deVoid UI/UI Settings")]
+    [CreateAssetMenu(fileName = "UISettings", menuName = "eGGs.gd/UI/UI Settings")]
     public class UISettings : ScriptableObject
     {
         [Tooltip("Prefab for the UI Frame structure itself")]
