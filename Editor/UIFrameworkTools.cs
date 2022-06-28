@@ -12,13 +12,13 @@ namespace eggsgd.UiFramework.Editor
 {
     public static class UIFrameworkTools
     {
-        [MenuItem("Assets/Create/eGGs.gd/UI/UI Frame in Scene", priority = 2)]
+        [MenuItem("Assets/Create/eGGs.gd UI/UI Frame in Scene", priority = 2)]
         public static void CreateUIFrameInScene()
         {
             CreateUIFrame();
         }
 
-        [MenuItem("Assets/Create/eGGs.gd/UI/UI Frame Prefab", priority = 1)]
+        [MenuItem("Assets/Create/eGGs.gd UI/UI Frame Prefab", priority = 1)]
         public static void CreateUIFramePrefab()
         {
             var frame = CreateUIFrame();
